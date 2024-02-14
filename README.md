@@ -69,7 +69,7 @@ $ tree
 
 - test
 ```
-  $ curl http://localhost:9001
+$ curl http://localhost:9001
 <h1>A</h1>
 $ curl http://localhost:9001
 <h1>B</h1>
